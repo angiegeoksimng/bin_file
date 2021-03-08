@@ -1,2 +1,2 @@
 # bin_file
-test3
+test4
